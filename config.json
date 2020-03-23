@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKEN_GOES_HERE",
+    "server": SERVER_ID_GOES_HERE,
+    "channel": CHANNEL_ID_GOES_HERE,
+    "allowed_keys": {
+        "KEY_NAME": "ACTION",
+    },
+    "game": "(OPTIONAL) NAME_OF_GAME_GOES_HERE"
+}
