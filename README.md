@@ -33,4 +33,4 @@ Finally, `game` is optional but should be a string that will show in the bot's "
 
 `python3 discord_plays.py`
 
-By default, it will load its configuration from `config.json` in its relative path, but, you can set the environment variable `DISCORD_PLAYS_CONFIG` if you wish to load from a different location.
+By default, it will load its configuration from `config.json` in its relative path, but you can set the environment variable `DISCORD_PLAYS_CONFIG` if you wish to load from a different location.
